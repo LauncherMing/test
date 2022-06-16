@@ -76,7 +76,6 @@ C:\Users\Pong0\Desktop\VS\新增資料夾\test\web410919946\web410919946\bin\Sys
 C:\Users\Pong0\Desktop\VS\新增資料夾\test\web410919946\web410919946\bin\Newtonsoft.Json.xml
 C:\Users\Pong0\Desktop\VS\新增資料夾\test\web410919946\web410919946\bin\Antlr3.Runtime.pdb
 C:\Users\Pong0\Desktop\VS\新增資料夾\test\web410919946\web410919946\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
-C:\Users\Pong0\Desktop\VS\新增資料夾\test\web410919946\web410919946\bin\zh-Hant\EntityFramework.resources.dll
 C:\Users\Pong0\Desktop\VS\新增資料夾\test\web410919946\web410919946\bin\zh-Hant\System.Web.Helpers.resources.dll
 C:\Users\Pong0\Desktop\VS\新增資料夾\test\web410919946\web410919946\bin\zh-Hant\System.Web.Mvc.resources.dll
 C:\Users\Pong0\Desktop\VS\新增資料夾\test\web410919946\web410919946\bin\zh-Hant\System.Web.Optimization.resources.dll
